@@ -1,4 +1,4 @@
-[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/alphaxcv/scx#main)
+[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/HeiDi00/scx#main)
 
 scalingo快速部署，免绑github。
 
