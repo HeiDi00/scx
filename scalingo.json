@@ -2,7 +2,7 @@
   "name": "scx",
   "description": "scx",
   "logo": "https://scalingo.com/logo.svg",
-  "repository": "https://github.com/alphaxcv/scx",
+  "repository": "https://github.com/HeiDi00/scx",
   "website": "https://scalingo.com",
   "env": {
     "N_S": {
